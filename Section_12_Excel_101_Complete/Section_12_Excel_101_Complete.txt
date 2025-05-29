@@ -1,0 +1,16 @@
+Completed the Excel 101 part of the course.
+Concepts Learned:
+-Creating and opening Excel Workbooks and Sheets
+-Entering and editing different types of data like text, numbers, date, creating custom date format etc.
+-Formating Excel sheets
+-Formating cells by using changing font, size, fill color, text color, borders etc.
+-Using cell styles and creating custom cell styles
+-Using functions like sum, average, min, max etc.
+-Generating percentage value and formating it.
+-Understanding the difference between relative cell reference and absolute cell reference
+-Creating Line charts/bar graphs and pie charts etc.
+-Formating charts and labelling them.
+-Print view
+-Formating for print by applying scaling, margin, orientation etc.
+-Inserting images, shapes, smartart and formating them.
+-Using Excel templates and creating custom excel templates.
